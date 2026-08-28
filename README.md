@@ -34,3 +34,9 @@ The AI successfully generates this structured JSON response:
   "sentiment": "Angry",
   "drafted_reply": "Hello, I sincerely apologize for the frustration caused by the app crashing during your password reset. I understand you need immediate access for your work. Our technical team is prioritizing this issue right away. In the meantime, please try opening the password reset link using a web browser instead of the mobile app. If you still experience issues, please let us know so we can assist you directly."
 }
+
+## Demo Video
+
+https://github.com/user-attachments/assets/c2920926-2066-4f38-b258-b5b75313414c
+
+
