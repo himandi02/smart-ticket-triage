@@ -1,0 +1,37 @@
+[
+    {
+        "urgency": "High",
+        "category": "Technical Bug",
+        "sentiment": "Angry",
+        "drafted_reply": "Dear Customer, I sincerely apologize for the frustration caused by the app crashing when trying to reset your password. I understand how urgent this is for your work. Please try using a web browser on a desktop to complete the password reset as a temporary workaround while our technical team investigates the app crash. If you still experience issues, please let us know so we can assist you immediately.",
+        "original_email": "I've been trying to reset my password for two days and your app keeps crashing every time I click the link. I need this fixed NOW, I have work to do!"
+    },
+    {
+        "urgency": "Medium",
+        "category": "Billing",
+        "sentiment": "Neutral",
+        "drafted_reply": "Hi there, thank you for reaching out. We apologize for the double charge on your account. I have forwarded this to our billing department to review and process a refund for the extra charge. We will update you as soon as it has been resolved.",
+        "original_email": "Hi team, I noticed I was charged twice for my subscription this month. Could you please look into this and issue a refund for the extra charge? Thanks."
+    },
+    {
+        "urgency": "Low",
+        "category": "Other",
+        "sentiment": "Confused",
+        "drafted_reply": "Hello! To export your weekly report to a PDF, go to the Reports dashboard, select the specific report you'd like to export, and click the 'Export' button in the top-right corner, then choose 'PDF'. Please let us know if you need any further assistance!",
+        "original_email": "Hello, I'm trying to figure out how to export my weekly report to a PDF. I looked at the documentation but I'm still a bit confused. Any guidance?"
+    },
+    {
+        "urgency": "High",
+        "category": "Account Access",
+        "sentiment": "Confused",
+        "drafted_reply": "Hello, thank you for reaching out. I apologize for the frustration with logging into your account. Please reply with the email address associated with your account so we can look into our system records and help restore your access as quickly as possible.",
+        "original_email": "I can't log into my account. It says my email is not registered, but I've been using your service for a year."
+    },
+    {
+        "urgency": "Low",
+        "category": "Other",
+        "sentiment": "Satisfied",
+        "drafted_reply": "Thank you so much for your kind words! We're thrilled to hear that you are enjoying the new dashboard update and that it has made finding your analytics easier. We truly appreciate your feedback and support!",
+        "original_email": "Just wanted to say the new dashboard update is fantastic! It makes finding my analytics so much easier. Keep up the good work."
+    }
+]

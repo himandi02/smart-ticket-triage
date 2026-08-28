@@ -1,0 +1,14 @@
+--- TICKET 1 ---
+I've been trying to reset my password for two days and your app keeps crashing every time I click the link. I need this fixed NOW, I have work to do!
+
+--- TICKET 2 ---
+Hi team, I noticed I was charged twice for my subscription this month. Could you please look into this and issue a refund for the extra charge? Thanks.
+
+--- TICKET 3 ---
+Hello, I'm trying to figure out how to export my weekly report to a PDF. I looked at the documentation but I'm still a bit confused. Any guidance?
+
+--- TICKET 4 ---
+I can't log into my account. It says my email is not registered, but I've been using your service for a year. 
+
+--- TICKET 5 ---
+Just wanted to say the new dashboard update is fantastic! It makes finding my analytics so much easier. Keep up the good work.
